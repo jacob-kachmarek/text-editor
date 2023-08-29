@@ -1,6 +1,6 @@
 # Text-Editor
   ## Description
-  A Progressive Web application that allows to user to write things down like a word document. A simple text-editor.
+  A Progressive Web application that allows to user to write things down like a word document. A simple text-editor. Deployed app [here](https://immense-cliffs-98812-bb8888d71273.herokuapp.com/).
 
   ## Table of Contents
 
